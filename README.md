@@ -1,3 +1,4 @@
+![logo](https://github.com/Saqibs575/Saqibs575/blob/main/BANNER(COVER).png)
 <h1 align="center">Hi 👋, I'm Saqib Shaikh</h1>
 <h3 align="center">I am currently studying Data Science at iNeuron.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif"
