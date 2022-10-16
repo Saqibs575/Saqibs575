@@ -1,7 +1,7 @@
 ![logo](https://github.com/Saqibs575/Saqibs575/blob/main/Screenshot%202022-10-16%20230832.png)
 <h1 align="center">Hi 👋, I'm Saqib Shaikh</h1>
 <h3 align="center">I am currently studying Data Science at iNeuron.</h3>
-<img align="right" alt="coding"  width="400" src="https://i.pinimg.com/originals/e3/57/7c/e3577c0dbda0e1d853f4c7ac50aa2915.gif"
+<img align="right" alt="coding"  width="400" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibs575&label=Profile%20views&color=0e75b6&style=flat" alt="saqibs575" /> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/saqib-shaikh-6760a5244/**
