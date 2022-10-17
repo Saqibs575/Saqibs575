@@ -1,4 +1,9 @@
-![logo](https://github.com/Saqibs575/Saqibs575/blob/main/Screenshot%202022-10-16%20230832.png)
+
+
+https://user-images.githubusercontent.com/111361057/196144691-3e000738-81af-416c-8aa8-7248552ef0d4.mp4
+
+
+
 <h1 align="center">Hi 👋, I'm Saqib Shaikh</h1>
 <h3 align="center">I am currently studying Data Science at iNeuron.</h3>
 <img align="right" alt="coding"  width="500" height="300" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif"
