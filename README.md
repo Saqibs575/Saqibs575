@@ -1,7 +1,5 @@
 
-
-https://user-images.githubusercontent.com/111361057/196144691-3e000738-81af-416c-8aa8-7248552ef0d4.mp4
-
+![Blue-Geometric-Technology-LinkedIn-Banner](https://user-images.githubusercontent.com/111361057/196146223-c5b2b8e2-dc1e-4765-a64e-d8fcd1b9a9cf.gif)
 
 
 <h1 align="center">Hi 👋, I'm Saqib Shaikh</h1>
